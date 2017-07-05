@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 first branch
+=======
+first branch
+
+modifying edu
+
+again modified
+>>>>>>> firstbranch

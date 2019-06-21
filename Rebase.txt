@@ -1,6 +1,0 @@
-Rebased 1
-<<<<<<< HEAD
-Rebased firstbranch
-=======
-Rebased 2
->>>>>>> master
